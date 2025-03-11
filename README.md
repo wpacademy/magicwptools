@@ -1,6 +1,6 @@
 # MagicWP Tools - Issues & Feature Requests
 
-Welcome to the official GitHub repository for handling issues and feature requests related to **MagicWP Tools**. This repository is dedicated to tracking bugs, suggesting new features, and discussing improvements for our platform.
+Welcome to the official GitHub repository for handling issues and feature requests related to [**MagicWP Tools**](https://magicwptools.com/). This repository is dedicated to tracking bugs, suggesting new features, and discussing improvements for our platform.
 
 ## About MagicWP Tools
 
